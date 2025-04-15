@@ -66,6 +66,7 @@ exports.handler = function(event, context) {
             ComplianceResourceType: configurationItem.resourceType,
             ComplianceResourceId: configurationItem.resourceId,
             ComplianceType: compliance,
+            api-key:ijTxDjy0f83fMb7+Nd6USujKFXM=,
             OrderingTimestamp: configurationItem.configurationItemCaptureTime
         }
     ];
